@@ -1,0 +1,1 @@
+INSERT INTO "customers" VALUES (49, 'Customer Pasteur No.1', 'Customer Pasteur No.1-231124061251', 'Jl. Pasteur No.1 Kota Bandung', '081180081181', 'customer.231124061229@gmail.com', '2023-11-24 06:12:51', NULL, NULL, '1230003210001');
